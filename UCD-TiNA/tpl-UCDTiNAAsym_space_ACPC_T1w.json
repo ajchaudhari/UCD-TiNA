@@ -1,0 +1,9 @@
+{
+  "Name": "UC Davis Titi Neuroimaging Atlas (UCD_TiNA)",
+  "Species": "Titi Monkey",
+  "TemplateType": "Single Subject Structural T1w MRI",
+  "Resolution": "0.3 x 0.3 x 0.3 mm3",
+  "Space": "ACPC",
+  "Modality": "MRI",
+  "Reference": ""
+}

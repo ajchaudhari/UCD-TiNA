@@ -1,0 +1,25 @@
+Index	Segment	Index in UCD-TiNA
+1	Dorsolateral_Prefrontal_Cortex_L	11
+2	Dorsolateral_Prefrontal_Cortex_R	12
+3	Somatosensory_Cortex_L	21
+4	Somatosensory_Cortex_R	22
+5	Rhinal_Cortex_L	31
+6	Rhinal_Cortex_R	32
+7	Inferior_Temporal_Cortex_L	35
+8	Inferior_Temporal_Cortex_R	36
+9	Superior_Temporal_Region_L	37
+10	Superior_Temporal_Region_R	38
+11	Insula_L	41
+12	Insula_R	42
+13	Lateral_Septum	58
+14	Amygdala_L	65
+15	Amygdala_R	66
+16	Caudate_L	68
+17	Caudate_R	69
+18	Putamen_L	70
+19	Putamen_R	71
+20	Nucleus_Accumbens_L	76
+21	Nucleus_Accumbens_R	77
+22	Hypothalamus	78
+23	Ventral_Thalamus	80
+24	Medial_Thalamus	81
